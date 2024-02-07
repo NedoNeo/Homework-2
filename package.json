@@ -1,0 +1,23 @@
+{
+  "name": "homework-2",
+  "version": "1.0.0",
+  "description": "\"homework\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedoNeo/Homework-2.git"
+  },
+  "keywords": [
+    "\"Babel-try\""
+  ],
+  "author": "Daniil Shkurupey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NedoNeo/Homework-2/issues"
+  },
+  "homepage": "https://github.com/NedoNeo/Homework-2#readme"
+}
